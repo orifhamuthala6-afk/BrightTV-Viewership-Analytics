@@ -7,10 +7,10 @@ BrightTV’s CEO tasked the **Customer Value Management (CVM) team** with using 
 
 The analysis was developed to support a **20-minute strategic presentation** covering four key areas:
 
-* 📈 **User & Usage Trends** — Analyse subscriber demographics, viewing behaviour, and consumption patterns across the BrightTV platform.
-* 🔍 **Factors Influencing Content Consumption** — Identify patterns and factors associated with higher or lower levels of viewer engagement.
-* 🎯 **Content Recommendations** — Recommend content strategies that could increase viewing activity, particularly during low-activity periods.
-* 🌱 **Subscriber Growth Strategies** — Identify data-driven opportunities to attract new users, improve engagement, and support subscriber growth.
+*  **User & Usage Trends** — Analyse subscriber demographics, viewing behaviour, and consumption patterns across the BrightTV platform.
+*  **Factors Influencing Content Consumption** — Identify patterns and factors associated with higher or lower levels of viewer engagement.
+* **Content Recommendations** — Recommend content strategies that could increase viewing activity, particularly during low-activity periods.
+* **Subscriber Growth Strategies** — Identify data-driven opportunities to attract new users, improve engagement, and support subscriber growth.
 
 ## Tools & Technologies
 
